@@ -1,12 +1,14 @@
 # WHAT IS RHYTHMBOX ANDROID REMOTE ?
 	
-	This script allows you to control your rhythmbox player with an android device.
+	This script allows you to control your rhythmbox player 
+	with an android device.
 
 # DOES IT WORKS WITH ALL VERSIONS OF RHYTHMBOX ?
 
 	NO.
 	Only with Rhythmbox 2.95 and above.
-	If you have a previous version, take a look here : http://www.navarin.de/projects/rbox/
+	If you have a previous version, take a look here : 
+		http://www.navarin.de/projects/rbox/
 
 # HOW DOES IT WORKS ?
  
@@ -26,15 +28,15 @@
 	- Seek
 	- Cover / Meta
 
-
 # AND ABOUT PROGRAMMING ?
 
-	This script is inspired by this one : http://www.navarin.de/projects/rbox/ and written in python using mpris dbus interfaces. 
+	This script is inspired by this one : http://www.navarin.de/projects/rbox/.
+	Written in python using mpris dbus interfaces. 
 	The goal is to make the Banshee Remote app working with Rhythmbox 2.95+
 	
 # WHAT IS PLANNED FOR THE FUTURE ?
 	
-	1) Add support of library, to choose a song/artist/album to play directly from the android device.
+	1) Add support of library, to choose a song/artist/album to play from the device.
 	2) Create a rhythmbox plugin for this script
 	
 # Additional informations
