@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # This script is inspired by : http://www.navarin.de/projects/rbox/
 # Website ans repository : https://github.com/bsaleil/rhythmbox-android-remote
 
@@ -15,8 +16,6 @@
 
 #You should have received a copy of the GNU General Public License
 #along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-#!/usr/bin/python
 
 # TODO :
 	# Socket : Close socket in a good way
